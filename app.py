@@ -23,7 +23,10 @@ while True:
       feelings_list.append("tired")
       encouragement_list.append("you are stronger than you think, dont give up, life is like a marathon and its okay to be slow")
       counter += 1
-      
+    if each_word == "hyper":
+      feelings_list.append("hyper")
+      encouragement_list.append("you can do whatever you want and have fun haha! It's fun to be highh!")
+      counter += 1
     if each_word == "bored":
       feelings_list.append("bored")
       encouragement_list.append("Go ocupy yourself, spend time with you loved ones. Life is short, make the most of it.")
