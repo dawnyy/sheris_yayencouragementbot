@@ -21,9 +21,17 @@ while True:
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
+ patch-1
       encouragement_list.append("you are stronger than you think, dont give up, life is like a marathon and its okay to be slow")
+      counter += 1 
+
+      encouragement_list.append("you are stronger than you think, don't give up, life is like a marathon and its okay to be slow")
       counter += 1
-      
+    if each_word == "hyper":
+      feelings_list.append("hyper")
+      encouragement_list.append("you can do whatever you want and have fun haha! It's fun to be highh!")
+      counter += 1
+ main
     if each_word == "bored":
       feelings_list.append("bored")
       encouragement_list.append("Go occupy yourself, spend time with you loved ones. Life is short, make the most of it.")
@@ -32,6 +40,14 @@ while True:
       feelings_list.append("hopeless")
       encouragement_list.append("cheer up, dont give up")
       counter += 1
+ patch-1
+
+    if each_word == "angry"
+       feelings_list.append("angry")
+       encouragement_list.append("Anger only makes you feel horrible. Keep calm and smile, do not do anything you will regret!")
+       counter += 1
+      
+main
   if counter == 0:
     
       output = "Sorry I don't really understand. Please use different words?"
