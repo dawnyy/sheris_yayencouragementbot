@@ -21,7 +21,7 @@ while True:
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("you are stronger than you think, dont give up, life is like a marathon and its okay to be slow")
+      encouragement_list.append("you are stronger than you think, don't give up, life is like a marathon and its okay to be slow")
       counter += 1
     if each_word == "hyper":
       feelings_list.append("hyper")
