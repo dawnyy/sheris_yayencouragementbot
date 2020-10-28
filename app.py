@@ -30,6 +30,13 @@ while True:
     if each_word == "angry":
       feelings_list.append("angry")
       encouragement_list.append("why spend time being angry at something or someone when you can live life to the fullest? Enjoy life")
+        counter += 1
+    if each_word == "lost"
+      feelings_list.append("lost")
+      encouragement_list.append("sit back and take a break, reflect on what is happening I think that just may help you")
+        counter += 1
+      
+      
 
  patch-1
       encouragement_list.append("you are stronger than you think, dont give up, life is like a marathon and its okay to be slow")
